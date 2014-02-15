@@ -1,0 +1,12 @@
+{
+  "name": "hyter-emailer",
+  "version": "0.1.0",
+  "description": "A simple mass emailer for Hyter Ry.",
+  "author": "Timo Olkkonen <timo@timoolkkonen.fi>",
+  "dependencies": {
+    "minimist": "0.0.7",
+    "nodemailer": "0.6.0",
+    "mustache": "0.8.1",
+    "fast-csv": "0.0.3"
+  }
+}
